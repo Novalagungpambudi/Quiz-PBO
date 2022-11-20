@@ -1,4 +1,4 @@
-package quizutamano2;
+package QuisPBO2;
 
 public class DataIuran {
     Integer NIK,sampah,keamanan,sumbangan;
